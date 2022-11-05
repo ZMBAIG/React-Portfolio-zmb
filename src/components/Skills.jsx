@@ -10,6 +10,7 @@ import Sass from "../assets/sass.png";
 import Python from "../assets/python.png";
 import Flask from "../assets/flask.png";
 import Tailwind from "../assets/tailwind.png";
+import Arcgis from "../assets/arcgis.png";
 
 const Skills = () => {
   return (
@@ -23,11 +24,11 @@ const Skills = () => {
         <div className="w-full grid grid-cols-2 sm:grid-cols-6 gap-4 text-center">
           <div className=" hover:scale-150 duration-500 rounded-b-full">
             <img className="w-10 mx-auto" src={HTML} alt="HTML icon p-2" />
-            <p className="my-2">HTML</p>
+            <p className="my-2">HTML5</p>
           </div>
           <div className=" hover:scale-150 duration-500 rounded-b-full">
             <img className="w-10 mx-auto" src={CSS} alt="HTML icon" />
-            <p className="my-2">CSS</p>
+            <p className="my-2">CSS3</p>
           </div>
           <div className=" hover:scale-150 duration-500 rounded-b-full">
             <img className="w-10 mx-auto" src={Sass} alt="HTML icon" />
@@ -36,27 +37,27 @@ const Skills = () => {
 
           <div className=" hover:scale-150 duration-500 rounded-b-full">
             <img className="w-10 mx-auto" src={JavaScript} alt="HTML icon" />
-            <p className="my-2">JAVASCRIPT</p>
+            <p className="my-2">JavaScript</p>
           </div>
           <div className=" hover:scale-150 duration-500 rounded-b-full">
             <img className="w-10 mx-auto" src={Node} alt="HTML icon" />
-            <p className="my-2">NODE JS</p>
+            <p className="my-2">Node.Js</p>
           </div>
           <div className="hover:scale-150 duration-500 rounded-b-full">
             <img className="w-10 mx-auto" src={ReactImg} alt="HTML icon" />
-            <p className="my-2">REACT</p>
+            <p className="my-2">React</p>
           </div>
           <div className="hover:scale-150 duration-500 rounded-b-full">
             <img className="w-10 mx-auto" src={GitHub} alt="HTML icon" />
-            <p className="my-2">GITHUB</p>
+            <p className="my-2">GitHub</p>
           </div>
           <div className=" hover:scale-150 duration-500 rounded-b-full">
             <img className="w-10 mx-auto" src={Python} alt="HTML icon" />
-            <p className="my-2">PYTHON</p>
+            <p className="my-2">Python</p>
           </div>
           <div className=" hover:scale-150 duration-500 rounded-b-full">
             <img className="w-10 mx-auto" src={Flask} alt="HTML icon" />
-            <p className="my-2">FLASK</p>
+            <p className="my-2">Flask</p>
           </div>
           <div className=" hover:scale-150 duration-500 rounded-b-full">
             <img className="w-10 mx-auto" src={Sql} alt="HTML icon" />
@@ -64,7 +65,11 @@ const Skills = () => {
           </div>
           <div className=" hover:scale-150 duration-500 rounded-b-full">
             <img className="w-10 mx-auto" src={Tailwind} alt="HTML icon" />
-            <p className="my-2">TAILWIND</p>
+            <p className="my-2">Tailwind</p>
+          </div>
+          <div className=" hover:scale-150 duration-500 rounded-b-full">
+            <img className="w-10 mx-auto" src={Arcgis} alt="HTML icon" />
+            <p className="my-2">ArcGIS</p>
           </div>
         </div>
       </div>

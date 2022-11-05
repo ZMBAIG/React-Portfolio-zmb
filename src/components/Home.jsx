@@ -55,7 +55,7 @@ const Home = () => {
             </a>
             <a
               className="hover:bg-[#E4405F] p-2 flex justify-center items-center  text-gray-300 rounded-full shadow-lg shadow-[#54749b]"
-              href="/"
+              href="https://www.instagram.com/64zmb/"
             >
               <FaInstagram size={20} />
             </a>

@@ -18,7 +18,7 @@ const Work = () => {
         </div>
 
         {/* container for projects */}
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6">
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6 ">
           {/* Gird Item */}
           {project.map((item, index) => (
             <div
@@ -32,7 +32,7 @@ const Work = () => {
                 <span className="text-2xl font bold text-white tracking-wider ">
                   {item.name}
                 </span>
-                <div className="pt-8 text-center ">
+                <div className="pt-8 text-center  ">
                   {/* eslint-disable-next-line */}
                   <a href={item.github} target="_blank">
                     <button

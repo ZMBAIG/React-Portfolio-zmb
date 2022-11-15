@@ -6,10 +6,13 @@ const Work = () => {
   const project = data;
 
   return (
-    <div name="work" className="w-full h-fit text-gray-300 bg-[#0a192f]">
-      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
+    <div
+      name="work"
+      className="ml-25 sm:w-full h-fit text-gray-300 bg-[#0a192f] pl-[100px]"
+    >
+      <div className=" max-w-[800px] mx-auto p-4 flex flex-col w-full h-full">
         <div className="pb-8">
-          <p className="text-2xl font-bold inline shadow-lg shadow-[#54749b] text-gray-300">
+          <p className="text-2xl font-bold inline shadow-lg shadow-[#54749b] text-gray-300 p-2">
             PROJECTS
           </p>
           <p class="p-4">
@@ -18,7 +21,7 @@ const Work = () => {
         </div>
 
         {/* container for projects */}
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6 ">
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6">
           {/* Gird Item */}
           {project.map((item, index) => (
             <div
@@ -29,14 +32,14 @@ const Work = () => {
             >
               {/* Hover effect for images */}
               <div className="opacity-0 group-hover:opacity-100 ">
-                <span className="text-2xl font bold text-white tracking-wider ">
+                <span className="text-md font bold text-white tracking-wider">
                   {item.name}
                 </span>
-                <div className="pt-8 text-center  ">
+                <div className="pt-2 text-center ">
                   {/* eslint-disable-next-line */}
                   <a href={item.github} target="_blank">
                     <button
-                      className="text-center rounded-lg px-4 py-3 m-2
+                      className="text-center rounded-full p-3 m-2
                       hover:bg-emerald-500 text-white font-bold text-lg"
                     >
                       <FaGithub size={30} />
@@ -44,7 +47,7 @@ const Work = () => {
                   </a>
                   <a href={item.live} target="_blank">
                     <button
-                      className="text-center rounded-lg px-4 py-3 m-2
+                      className="text-center rounded-full p-3 m-2
                       hover:bg-blue-500 text-white font-bold text-lg "
                     >
                       <FaLaptop size={30} />

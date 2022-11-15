@@ -2,7 +2,7 @@ import React from "react";
 
 const AnimationBox = () => {
   return (
-    <div>
+    <div class="w-16 md:w-32 lg:w-48">
       <section class="container">
         <div class="box">
           <span></span>

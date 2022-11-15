@@ -2,17 +2,17 @@ import React from "react";
 import { data } from "../data/data.js";
 import { FaGithub, FaLaptop } from "react-icons/fa";
 
-const Work = () => {
+const Project = () => {
   const project = data;
 
   return (
     <div
-      name="work"
+      name="project"
       className="ml-25 sm:w-full h-fit text-gray-300 bg-[#0a192f] pl-[100px]"
     >
       <div className=" max-w-[800px] mx-auto p-4 flex flex-col w-full h-full">
         <div className="pb-8">
-          <p className="text-2xl font-bold inline shadow-lg shadow-[#54749b] text-gray-300 p-2">
+          <p className="text-2xl font-bold inline shadow-lg shadow-[#54749b] text-gray-300 p-2 flex justify-center tracking-widest">
             PROJECTS
           </p>
           <p class="p-4">
@@ -63,4 +63,4 @@ const Work = () => {
   );
 };
 
-export default Work;
+export default Project;

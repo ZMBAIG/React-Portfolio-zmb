@@ -20,11 +20,11 @@ const Skills = () => {
     >
       <div className="max-w-[800px] mx-auto p-4 flex flex-col  w-full h-full pl-[100px]">
         <div className="pb-8">
-          <p className="text-2xl font-bold inline shadow-lg shadow-[#54749b] p-2">
+          <p className="text-2xl font-bold shadow-lg shadow-[#54749b] p-2 flex justify-center tracking-widest">
             SKILLS
           </p>
         </div>
-        <div className="w-full grid grid-cols-2 sm:grid-cols-6 gap-4 text-center pl-[100px]">
+        <div className="w-full grid grid-cols-2 sm:grid-cols-6 gap-4 text-center pl-[25px]">
           <div className="hover:scale-150 duration-500 ">
             <img className="w-10 mx-auto" src={HTML} alt="HTML icon " />
             <p className="">HTML5</p>

@@ -10,9 +10,9 @@
   body {
     @apply font-[Poppins];
   }
-  h1 {
+  /* h1 {
     @apply font-[Sacramento];
-  }
+  } */
   .about {
     @apply font-[Calligraffitti];
   }

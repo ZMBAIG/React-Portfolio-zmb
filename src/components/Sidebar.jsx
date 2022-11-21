@@ -11,7 +11,7 @@ import {
 const Sidebar = () => {
   return (
     <div
-      name="sidebar"
+      name="home"
       className="object-none object-left w-20 h-screen bg-[rgb(27,42,73)] border-r shadow-lg shadow-[#54749b] px-4 top-20 left-0"
     >
       <div className="object-none object-left fixed w-20  h-screen px-4 bg-[#282c34] text-white top-20 left-0">

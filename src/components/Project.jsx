@@ -7,21 +7,21 @@ const Project = () => {
 
   return (
     <div
-      name="project"
+      name="work"
       className="ml-25 sm:w-full h-fit text-gray-300 bg-[#0a192f] pl-[100px]"
     >
       <div className=" max-w-[800px] mx-auto p-4 flex flex-col w-full h-full">
         <div className="pb-8">
-          <p className="text-2xl font-bold inline shadow-lg shadow-[#54749b] text-gray-300 p-2 flex justify-center tracking-widest">
+          <p className="text-2xl flex-inline shadow-lg shadow-[#54749b] text-gray-300 p-2 flex justify-center tracking-[20px]">
             PROJECTS
           </p>
-          <p class="p-4">
+          <p class="pt-8">
             Here are some of my personal projects, you may like.
           </p>
         </div>
 
         {/* container for projects */}
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6">
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6 my-4">
           {/* Gird Item */}
           {project.map((item, index) => (
             <div

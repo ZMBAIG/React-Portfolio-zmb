@@ -1,5 +1,5 @@
 import React from "react";
-import ResumePDF from "../assets/Zafar-Resume-FSD-2022-23.pdf";
+import ResumePDF from "../assets/NL-Zafar-Resume-FSD-2022-23.pdf";
 
 const Resume = () => {
   return (

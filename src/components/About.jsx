@@ -4,35 +4,38 @@ const About = () => {
   return (
     <div
       name="about"
-      className="sm:w-full h-screen bg-gradient-to-r from-sky-500 to-indigo-900 text-gray-300 pl-[100px] pb-8"
+      className="sm:w-full h-screen bg-gradient-to-r  from-indigo-900 to-sky-500 text-gray-300 pl-[100px] pb-8"
     >
       <div className=" flex flex-col justify-center items-center w-full h-full ">
-        <div className="ml-30 max-w-[800px] w-full grid grid-cols-2 gap-8">
-          <div className="mt-8 sm:text-right pl-4">
-            <p className="text-1xl font-bold inline-flex shadow-lg shadow-[#54749b] bg-indigo-900 ">
-              About Me
+        <div className="ml-30 max-w-[800px] w-full grid grid-cols-2 ">
+          <div className="px-8 sm:text-right pl-4">
+            <p className="text-1xl font-bold inline-flex  shadow-[#54749b] bg-indigo-900 p-2  ">
+              Over mij
             </p>
           </div>
         </div>
-        <div className="max-w-[800px] w-full grid sm:grid-cols-2 gap-8 px-4">
-          <div className="sm:text-right text-2xl font-bold">
+        <div className="max-w-[800px] w-full grid sm:grid-cols-2 px-4">
+          {/* <div className="sm:text-right text-2xl font-bold">
             <p class="pt-4">Hi. I'm Zafar Baig,</p>
             <p class="text-sm">the Full Stack Developer</p>
-          </div>
-          <p class="about">
-            I have a deep passion for software development, algorithms and
-            problem solving. Through a year of practice and many personal
-            projects, I honed my knowledge and skills as a programmer,
-            developing a certain versatility in using technologies and coding
-            languages. As I am mostly a self-learner. I can easily adopt to new
-            things and always ready to take on a challenge. <br></br>
-            <strong>
-              Moreover, I have a Strong interest in innovation and continuous
-              improvement within technical applications, excellent incident
-              management skills which involve performing in-depth analysis of
-              issue resolution, ability to manage multiple tasks and willingness
-              to travel to customer sites if required.
-            </strong>
+          </div> */}
+          <p class="about pt-4">
+            Het mooie in de veelzijdige wereld van de informatietechnologie is
+            dat het kansen biedt om je op meerdere fronten te ontwikkelen. Dit
+            was voor mij een reden om het hbo – omscholingstraject tot Full
+            Stack Developer te volgen, wat ik zeer recent met succes heb
+            afgerond. In mijn loopbaan heb ik voornamelijk werkervaring opgedaan
+            als Geo-informatica medewerker. Hierin is de bekendheid met diverse
+            softwareapplicaties ontstaan, waarbij mijn werkzaamheden onder
+            andere bestonden uit het visualiseren en actualiseren van de geodata
+            en vastgoedinformatie.
+            <br></br>
+            Door een jaar oefenen en vele persoonlijke projecten heb ik mijn
+            kennis en vaardigheden als programmeur opgebouwd en een zekere
+            veelzijdigheid ontwikkeld in het gebruik van technologieën en
+            codeertalen. Mijn leergierigheid en interesse zorgen ervoor dat ik
+            nieuwe dingen snel eigen kan maken en nooit een uitdaging uit de weg
+            zal gaan.
           </p>
         </div>
       </div>

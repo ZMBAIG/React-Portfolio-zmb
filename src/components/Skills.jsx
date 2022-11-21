@@ -16,15 +16,15 @@ const Skills = () => {
   return (
     <div
       name="skills"
-      className="ml-25 sm:w-full h-fit bg-[#2d3d55] text-gray-300 ;"
+      className="ml-25 sm:w-full h-fit bg-[#2d3d55] text-gray-300"
     >
       <div className="max-w-[800px] mx-auto p-4 flex flex-col  w-full h-full pl-[100px]">
         <div className="pb-8">
-          <p className="text-2xl font-bold shadow-lg shadow-[#54749b] p-2 flex justify-center tracking-widest">
+          <p className="text-2xl shadow-lg shadow-[#54749b] p-2 flex justify-center tracking-[22px]">
             SKILLS
           </p>
         </div>
-        <div className="w-full grid grid-cols-2 sm:grid-cols-6 gap-4 text-center pl-[25px]">
+        <div className="w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center pl-[25px] my-10">
           <div className="hover:scale-150 duration-500 ">
             <img className="w-10 mx-auto" src={HTML} alt="HTML icon " />
             <p className="">HTML5</p>

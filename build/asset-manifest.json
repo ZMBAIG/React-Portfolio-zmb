@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Portfolio-zmb/static/css/main.c3006fa0.css",
-    "main.js": "/React-Portfolio-zmb/static/js/main.69690acf.js",
+    "main.css": "/React-Portfolio-zmb/static/css/main.d3f0f762.css",
+    "main.js": "/React-Portfolio-zmb/static/js/main.678f9462.js",
     "static/media/cube-logo.png": "/React-Portfolio-zmb/static/media/cube-logo.878f049afded91a8696f.png",
     "static/media/Superpy.jpg": "/React-Portfolio-zmb/static/media/Superpy.7c9e5f22a6bf36716ff0.jpg",
     "static/media/FilmSearch.jpg": "/React-Portfolio-zmb/static/media/FilmSearch.303a3829e4dfcc216fd1.jpg",
     "static/media/StudentDashboard.jpg": "/React-Portfolio-zmb/static/media/StudentDashboard.2bb9b284be76d6ec84a7.jpg",
     "static/media/Betsyshop.jpg": "/React-Portfolio-zmb/static/media/Betsyshop.979a0769e2956a2ffc73.jpg",
+    "static/media/NL-Zafar-Resume-FSD-2022-23.pdf": "/React-Portfolio-zmb/static/media/NL-Zafar-Resume-FSD-2022-23.809193704425d9237b79.pdf",
     "static/media/ToDoList.jpg": "/React-Portfolio-zmb/static/media/ToDoList.c420de876aa91910f27e.jpg",
     "static/media/arcgis.png": "/React-Portfolio-zmb/static/media/arcgis.8c60cb1746ca5009bc36.png",
-    "static/media/Zafar-Resume-FSD-2022-23.pdf": "/React-Portfolio-zmb/static/media/Zafar-Resume-FSD-2022-23.b0327223b79aec9e33b7.pdf",
     "static/media/flask.png": "/React-Portfolio-zmb/static/media/flask.d6d30c98641995f1b39c.png",
     "static/media/react.png": "/React-Portfolio-zmb/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/React-Portfolio-zmb/static/media/node.952a9ea986dcfa5229ad.png",
@@ -20,11 +20,11 @@
     "static/media/python.png": "/React-Portfolio-zmb/static/media/python.532b43188ecbf86cdcbd.png",
     "static/media/javascript.png": "/React-Portfolio-zmb/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/React-Portfolio-zmb/index.html",
-    "main.c3006fa0.css.map": "/React-Portfolio-zmb/static/css/main.c3006fa0.css.map",
-    "main.69690acf.js.map": "/React-Portfolio-zmb/static/js/main.69690acf.js.map"
+    "main.d3f0f762.css.map": "/React-Portfolio-zmb/static/css/main.d3f0f762.css.map",
+    "main.678f9462.js.map": "/React-Portfolio-zmb/static/js/main.678f9462.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3006fa0.css",
-    "static/js/main.69690acf.js"
+    "static/css/main.d3f0f762.css",
+    "static/js/main.678f9462.js"
   ]
 }

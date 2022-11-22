@@ -5,15 +5,13 @@ import Navbar from "./components/Navbar";
 import Skills from "./components/Skills";
 import Project from "./components/Project";
 import Resume from "./components/Resume";
-import AnimationBox from "./components/AnimationBox";
 
 function App() {
   return (
     <div>
-      <AnimationBox />
+      <About />
       <Navbar />
       <Sidebar />
-      <About />
       <Skills />
       <Project />
       <Resume />

@@ -16,11 +16,11 @@ const Skills = () => {
   return (
     <div
       name="skills"
-      className="ml-25 sm:w-full h-fit bg-[#2d3d55] text-gray-300"
+      className="ml-25 sm:w-full h-fit bg-[#2d3d55] text-gray-300 py-6"
     >
       <div className="max-w-[800px] mx-auto p-4 flex flex-col  w-full h-full pl-[100px]">
         <div className="pb-8">
-          <p className="text-2xl shadow-lg shadow-[#54749b] p-2 flex justify-center tracking-[22px]">
+          <p className="text-2xl shadow-lg shadow-[#54749b] border-b-[1.8px] p-2 flex justify-center tracking-[22px]">
             SKILLS
           </p>
         </div>

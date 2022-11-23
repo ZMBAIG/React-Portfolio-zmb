@@ -8,11 +8,11 @@ const Project = () => {
   return (
     <div
       name="work"
-      className="ml-25 sm:w-full h-fit text-gray-300 bg-[#0a192f] pl-[100px]"
+      className="ml-25 sm:w-full h-fit text-gray-300 bg-[#0a192f] pl-[100px] py-6"
     >
       <div className=" max-w-[800px] mx-auto p-4 flex flex-col w-full h-full">
         <div className="pb-8">
-          <p className="text-2xl flex-inline shadow-lg shadow-[#54749b] text-gray-300 px-2 flex justify-center tracking-[14px]">
+          <p className="text-2xl flex-inline shadow-lg shadow-[#54749b] border-b-[1.8px] text-gray-300 p-2 flex justify-center tracking-[14px]">
             PROJECTS
           </p>
           <p class="pt-8">

@@ -11,7 +11,7 @@ const About = () => {
         className=" w-full h-full bg-gradient-to-r from-indigo-900 to-sky-500 px-6 flex justify-center"
       >
         <p class="About  max-w-[800px] w-full  pb-8 text-white">
-          <h4 className=" text-1xl text-center font-bold bg-gradient-to-r from-indigo-900 to-sky-500 px-6  py-2 shadow-lg shadow-[#54749b] border-b-[1.8px] my-6 tracking-[20px] text-white">
+          <h4 className=" text-1xl text-center font-bold bg-gradient-to-r from-indigo-900 to-sky-500 px-6  py-2 shadow-lg shadow-[#54749b] border-b-[1.8px] my-6 tracking-[10px] text-white">
             OVER MIJ
           </h4>
           Het mooie in de veelzijdige wereld van de informatietechnologie is dat

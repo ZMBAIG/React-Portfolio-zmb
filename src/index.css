@@ -68,7 +68,7 @@ body {
   right: 15px;
   bottom: 15px;
   border: 1px solid #f0a591;
-  padding: 15px 20px;
+  padding: 10px 20px;
   box-shadow: 0 5px 10px rgba(9, 0, 0, 0.5);
 }
 .box span {
@@ -120,10 +120,3 @@ body {
     transform-origin: right;
   }
 }
-
-/* @media only screen and (max-width: 500px) {
-  .box span:before {
-    width: 200px;
-    font-size: 18px;
-  }
-} */

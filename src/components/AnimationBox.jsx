@@ -14,18 +14,18 @@ const AnimationBox = () => {
           <span></span>
           <span></span>
           <div class="content">
-            <div class="text-white text-sm  animate-ping relative inline-flex h-50 w-50 bg-sky-400 opacity-100 p-1 font-sans float-left">
+            <div class="text-white text-sm  animate-ping relative inline-flex h-50 w-50 bg-sky-400 opacity-100 font-sans float-left">
               Hoi,
             </div>
 
-            <p class="text-md ml-16">Ik ben</p>
-            <h1 className="text-2xl font-bold text-[#9edef0] ml-12">
+            <p class="text-md text-center">Ik ben</p>
+            <h1 className="text-2xl font-bold text-[#9edef0] text-center tracking-[4px]">
               Zafar Baig
             </h1>
-            <h2 className="text-md text-teal-200 ml-12">
+            <h2 className="text-md text-teal-200 text-center">
               Full Stack Developer
             </h2>
-            <p className="transform-text text-white text-[.8rem]   px-0">
+            <p className="text-white text-[.8rem] text-justify">
               Mijn persoonlijke zoektocht heeft er toe geleid dat ik vol
               enthousiasme ben omgeschoold van een geoloog naar een
               ontwikkelaar. Met dezelfde drive en energie kan ik d.m.v. digitale

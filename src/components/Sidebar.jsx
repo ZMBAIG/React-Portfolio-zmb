@@ -12,7 +12,7 @@ const Sidebar = () => {
   return (
     <div
       name="home"
-      className="object-none object-left fixed w-20 h-screen bg-gradient-to-r  from-indigo-900 to-sky-500 border-r shadow-lg shadow-[#54749b] px-4 top-20 left-0"
+      className="object-none object-left fixed w-12 h-screen bg-gradient-to-r  from-indigo-900 to-sky-500 border-r shadow-lg shadow-[#54749b] px-4 top-20 left-0"
     >
       {/* <div className="object-none object-left fixed w-20  h-screen px-4 bg-gradient-to-r  from-indigo-900 to-sky-500 text-white top-20 left-0"> */}
       <div className=" mx-0 p-2 flex-col py-3 my-12 flex items-center gap-4">

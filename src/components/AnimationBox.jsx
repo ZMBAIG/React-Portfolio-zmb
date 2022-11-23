@@ -22,14 +22,14 @@ const AnimationBox = () => {
             <h1 className="text-2xl font-bold text-[#9edef0] text-center tracking-[4px]">
               Zafar Baig
             </h1>
-            <h2 className="text-md text-teal-200 text-center">
+            <h2 className="text-sm text-teal-200 text-center">
               Full Stack Developer
             </h2>
-            <p className="text-white text-[.8rem] text-justify">
-              Mijn persoonlijke zoektocht heeft er toe geleid dat ik vol
-              enthousiasme ben omgeschoold van een geoloog naar een
+            <p className="text-white text-[12px]">
+              Mijn persoonlijke zoektocht heeft er naar toe geleid dat ik vol
+              enthou-siasme ben omgeschoold van een geoloog naar een
               ontwikkelaar. Met dezelfde drive en energie kan ik d.m.v. digitale
-              transformatie de toekomstbestendigheidheid van uw organisatie
+              transformatie de toekomstbest-endigheidheid van uw organisatie
               vergroten.
             </p>
           </div>

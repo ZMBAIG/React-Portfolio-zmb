@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React-Portfolio-zmb/static/css/main.72a902a0.css",
-    "main.js": "/React-Portfolio-zmb/static/js/main.d8637e8f.js",
+    "main.css": "/React-Portfolio-zmb/static/css/main.9c712163.css",
+    "main.js": "/React-Portfolio-zmb/static/js/main.e2afe9bd.js",
     "static/media/cube-logo.png": "/React-Portfolio-zmb/static/media/cube-logo.878f049afded91a8696f.png",
     "static/media/Superpy.jpg": "/React-Portfolio-zmb/static/media/Superpy.7c9e5f22a6bf36716ff0.jpg",
     "static/media/FilmSearch.jpg": "/React-Portfolio-zmb/static/media/FilmSearch.303a3829e4dfcc216fd1.jpg",
     "static/media/StudentDashboard.jpg": "/React-Portfolio-zmb/static/media/StudentDashboard.2bb9b284be76d6ec84a7.jpg",
     "static/media/Betsyshop.jpg": "/React-Portfolio-zmb/static/media/Betsyshop.979a0769e2956a2ffc73.jpg",
-    "static/media/NL-Zafar-Resume-FSD-2022-23.pdf": "/React-Portfolio-zmb/static/media/NL-Zafar-Resume-FSD-2022-23.6b9c69ad69a2e0f3f935.pdf",
+    "static/media/NL-Zafar-Resume-FSD-2022-23.pdf": "/React-Portfolio-zmb/static/media/NL-Zafar-Resume-FSD-2022-23.4b3e14088d676334ec21.pdf",
     "static/media/ToDoList.jpg": "/React-Portfolio-zmb/static/media/ToDoList.c420de876aa91910f27e.jpg",
     "static/media/arcgis.png": "/React-Portfolio-zmb/static/media/arcgis.8c60cb1746ca5009bc36.png",
     "static/media/flask.png": "/React-Portfolio-zmb/static/media/flask.d6d30c98641995f1b39c.png",
@@ -20,11 +20,11 @@
     "static/media/python.png": "/React-Portfolio-zmb/static/media/python.532b43188ecbf86cdcbd.png",
     "static/media/javascript.png": "/React-Portfolio-zmb/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/React-Portfolio-zmb/index.html",
-    "main.72a902a0.css.map": "/React-Portfolio-zmb/static/css/main.72a902a0.css.map",
-    "main.d8637e8f.js.map": "/React-Portfolio-zmb/static/js/main.d8637e8f.js.map"
+    "main.9c712163.css.map": "/React-Portfolio-zmb/static/css/main.9c712163.css.map",
+    "main.e2afe9bd.js.map": "/React-Portfolio-zmb/static/js/main.e2afe9bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.72a902a0.css",
-    "static/js/main.d8637e8f.js"
+    "static/css/main.9c712163.css",
+    "static/js/main.e2afe9bd.js"
   ]
 }

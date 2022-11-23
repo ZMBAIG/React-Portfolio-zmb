@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Portfolio-zmb/static/css/main.45966acd.css",
-    "main.js": "/React-Portfolio-zmb/static/js/main.af72f89e.js",
+    "main.css": "/React-Portfolio-zmb/static/css/main.72a902a0.css",
+    "main.js": "/React-Portfolio-zmb/static/js/main.d8637e8f.js",
     "static/media/cube-logo.png": "/React-Portfolio-zmb/static/media/cube-logo.878f049afded91a8696f.png",
     "static/media/Superpy.jpg": "/React-Portfolio-zmb/static/media/Superpy.7c9e5f22a6bf36716ff0.jpg",
     "static/media/FilmSearch.jpg": "/React-Portfolio-zmb/static/media/FilmSearch.303a3829e4dfcc216fd1.jpg",
@@ -20,11 +20,11 @@
     "static/media/python.png": "/React-Portfolio-zmb/static/media/python.532b43188ecbf86cdcbd.png",
     "static/media/javascript.png": "/React-Portfolio-zmb/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/React-Portfolio-zmb/index.html",
-    "main.45966acd.css.map": "/React-Portfolio-zmb/static/css/main.45966acd.css.map",
-    "main.af72f89e.js.map": "/React-Portfolio-zmb/static/js/main.af72f89e.js.map"
+    "main.72a902a0.css.map": "/React-Portfolio-zmb/static/css/main.72a902a0.css.map",
+    "main.d8637e8f.js.map": "/React-Portfolio-zmb/static/js/main.d8637e8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.45966acd.css",
-    "static/js/main.af72f89e.js"
+    "static/css/main.72a902a0.css",
+    "static/js/main.d8637e8f.js"
   ]
 }

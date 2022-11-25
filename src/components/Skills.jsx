@@ -16,62 +16,62 @@ const Skills = () => {
   return (
     <div
       name="skills"
-      className="ml-25 sm:w-full h-fit bg-[#2d3d55] text-gray-300 py-6"
+      className="sm:w-full h-fit bg-[#2d3d55] text-gray-300 py-6"
     >
       <div className="max-w-[800px] mx-auto p-4 flex flex-col  w-full h-full pl-[100px]">
         <div className="pb-8">
-          <p className="text-2xl shadow-lg shadow-[#54749b] border-b-[1.8px] p-2 flex justify-center tracking-[22px]">
+          <p className="text-2xl shadow-lg shadow-[#54749b] border-b-[1.8px] p-2 flex justify-center items-center tracking-[22px]">
             SKILLS
           </p>
         </div>
-        <div className="w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center pl-[25px] my-10">
+        <div className="sm: grid grid-cols-2 sm:grid-cols-4 gap-4 text-center">
           <div className="hover:scale-150 duration-500 ">
-            <img className="w-10 mx-auto" src={HTML} alt="HTML icon " />
+            <img className="w-12 mx-auto" src={HTML} alt="HTML icon " />
             <p className="">HTML5</p>
           </div>
           <div className=" hover:scale-150 duration-500 ">
-            <img className="w-10 mx-auto" src={CSS} alt="HTML icon" />
+            <img className="w-12 mx-auto" src={CSS} alt="HTML icon" />
             <p className="">CSS3</p>
           </div>
           <div className=" hover:scale-150 duration-500 rounded-b-full">
-            <img className="w-10 mx-auto" src={Sass} alt="HTML icon" />
+            <img className="w-12 mx-auto" src={Sass} alt="HTML icon" />
             <p className="">SASS</p>
           </div>
 
           <div className=" hover:scale-150 duration-500 rounded-b-full">
-            <img className="w-10 mx-auto" src={JavaScript} alt="HTML icon" />
+            <img className="w-12 mx-auto" src={JavaScript} alt="HTML icon" />
             <p className="">JavaScript</p>
           </div>
           <div className=" hover:scale-150 duration-500 rounded-b-full">
-            <img className="w-10 mx-auto" src={Node} alt="HTML icon" />
+            <img className="w-12 mx-auto" src={Node} alt="HTML icon" />
             <p className="">Node.Js</p>
           </div>
           <div className="hover:scale-150 duration-500 rounded-b-full">
-            <img className="w-10 mx-auto" src={ReactImg} alt="HTML icon" />
+            <img className="w-12 mx-auto" src={ReactImg} alt="HTML icon" />
             <p className="">React</p>
           </div>
           <div className="hover:scale-150 duration-500 rounded-b-full">
-            <img className="w-10 mx-auto" src={GitHub} alt="HTML icon" />
+            <img className="w-12 mx-auto" src={GitHub} alt="HTML icon" />
             <p className="">GitHub</p>
           </div>
           <div className=" hover:scale-150 duration-500 rounded-b-full">
-            <img className="w-10 mx-auto" src={Python} alt="HTML icon" />
+            <img className="w-12 mx-auto" src={Python} alt="HTML icon" />
             <p className="">Python</p>
           </div>
           <div className=" hover:scale-150 duration-500 rounded-b-full">
-            <img className="w-10 mx-auto" src={Flask} alt="HTML icon" />
+            <img className="w-12 mx-auto" src={Flask} alt="HTML icon" />
             <p className="">Flask</p>
           </div>
           <div className=" hover:scale-150 duration-500 rounded-b-full">
-            <img className="w-10 mx-auto" src={Sql} alt="HTML icon" />
+            <img className="w-12 mx-auto" src={Sql} alt="HTML icon" />
             <p className="">SQL</p>
           </div>
           <div className=" hover:scale-150 duration-500 rounded-b-full">
-            <img className="w-10 mx-auto" src={Tailwind} alt="HTML icon" />
+            <img className="w-12 mx-auto" src={Tailwind} alt="HTML icon" />
             <p className="">Tailwind</p>
           </div>
           <div className=" hover:scale-150 duration-500 rounded-b-full">
-            <img className="w-10 mx-auto" src={Arcgis} alt="HTML icon" />
+            <img className="w-12 mx-auto" src={Arcgis} alt="HTML icon" />
             <p className="">Arc GIS</p>
           </div>
         </div>

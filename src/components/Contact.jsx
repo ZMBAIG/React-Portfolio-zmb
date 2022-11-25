@@ -40,8 +40,8 @@ const Contact = () => {
           rows="6"
           placeholder="Message"
         ></textarea>
-        <button className="text-white border-2 hover:bg-emerald-600 hover:border-emerald-600 px-4 py-3 my-8 mx-auto flex items-center shadow-lg shadow-[#54749b]">
-          Submit
+        <button className="text-white border-[1px] hover:bg-emerald-600 hover:border-emerald-600 px-4 py-3 my-8 mx-auto flex items-center shadow-lg shadow-[#54749b] rounded-full">
+          Submit Message
         </button>
       </form>
     </div>

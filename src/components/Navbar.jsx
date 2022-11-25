@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
-import Logo from "../assets/cube-logo.png";
+import Logo from "../assets/images/cube-logo.png";
 import { Link } from "react-scroll";
 import ResumePDF from "../assets/NL-Zafar-Resume-FSD-2022-23.pdf";
 
@@ -19,32 +19,32 @@ const Navbar = () => {
 
       {/* menu */}
       <ul className="hidden md:flex ">
-        <li class="menu text-[#61dafb] shadow-lg shadow-[#54749b]">
+        <li class="menu hover:border-b-4 border-emerald-600">
           <Link to="home" smooth={true} duration={500}>
             Home
           </Link>
         </li>
-        <li class="menu hover:text-[#61dafb] ">
+        <li class="menu hover:border-b-4 border-emerald-600">
           <Link to="about" smooth={true} duration={500}>
             About
           </Link>
         </li>
-        <li class="menu hover:text-[#61dafb]">
+        <li class="menu hover:border-b-4 border-emerald-600">
           <Link to="skills" smooth={true} duration={500}>
             Skills
           </Link>
         </li>
-        <li class="menu hover:text-[#61dafb] ">
+        <li class="menu hover:border-b-4 border-emerald-600">
           <Link to="work" smooth={true} duration={500}>
             Projects
           </Link>
         </li>
-        <li class="menu hover:text-[#61dafb]">
+        <li class="menu hover:border-b-4 border-emerald-600">
           <Link to="contact" smooth={true} duration={500}>
             Contact
           </Link>
         </li>
-        <li class="menu hover:text-[#61dafb]">
+        <li class="menu hover:border-b-4 border-emerald-600">
           <a href={ResumePDF} target="_blank" rel="noreferrer">
             Resume
           </a>{" "}
@@ -61,39 +61,39 @@ const Navbar = () => {
         className={
           !nav
             ? "hidden"
-            : "absolute top-0 left-0 w-full h-screen bg-[#282c34] flex flex-col  items-center gap-6 "
+            : "absolute top-0 left-0 w-full h-screen bg-[#282c34] flex flex-col  items-center gap-6  pt-[30%]"
         }
       >
-        <li className="py-3 px-2 text-2xl border-b-[1px] shadow-lg shadow-[#54749b] hover:text-blue-300">
+        <li className="text-2xl hover:border-b-4 border-emerald-600 hover:text-[#f211a3]">
           <Link onClick={handleClick} to="home" smooth={true} duration={500}>
             Home
           </Link>
         </li>
-        <li className="py-3 px-4 text-2xl border-b-[1px] shadow-lg shadow-[#54749b] hover:text-blue-300">
+        <li className="text-2xl hover:border-b-4 border-emerald-600 hover:text-[#f211a3]">
           {" "}
           <Link onClick={handleClick} to="about" smooth={true} duration={500}>
             About
           </Link>
         </li>
-        <li className="py-3 px-8 text-2xl border-b-[1px] shadow-lg shadow-[#54749b] hover:text-blue-300">
+        <li className="text-2xl hover:border-b-4 border-emerald-600 hover:text-[#f211a3]">
           {" "}
           <Link onClick={handleClick} to="skills" smooth={true} duration={500}>
             Skills
           </Link>
         </li>
-        <li className="py-3 px-10 text-2xl border-b-[1px] shadow-lg shadow-[#54749b] hover:text-blue-300">
+        <li className=" text-2xl hover:border-b-4 border-emerald-600 hover:text-[#f211a3]">
           {" "}
           <Link onClick={handleClick} to="work" smooth={true} duration={500}>
             Projects
           </Link>
         </li>
-        <li className="py-3 px-9 text-2xl border-b-[1px] shadow-lg shadow-[#54749b] hover:text-blue-300">
+        <li className="text-2xl hover:border-b-4 border-emerald-600 hover:text-[#f211a3]">
           {" "}
           <Link onClick={handleClick} to="contact" smooth={true} duration={500}>
             Contact
           </Link>
         </li>
-        <li class="menu hover:text-[#61dafb]">
+        <li class="menu hover:text-[#f211a3] text-2xl border-b-[1px]p-4 top-0 left-0 hover:border-b-4 border-emerald-600">
           <a href={ResumePDF} target="_blank" rel="noreferrer">
             Resume
           </a>{" "}

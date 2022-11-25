@@ -1,16 +1,16 @@
 import React from "react";
-import HTML from "../assets/html.png";
-import CSS from "../assets/css.png";
-import JavaScript from "../assets/javascript.png";
-import ReactImg from "../assets/react.png";
-import Node from "../assets/node.png";
-import Sql from "../assets/sql.png";
-import GitHub from "../assets/github.png";
-import Sass from "../assets/sass.png";
-import Python from "../assets/python.png";
-import Flask from "../assets/flask.png";
-import Tailwind from "../assets/tailwind.png";
-import Arcgis from "../assets/arcgis.png";
+import HTML from "../assets/images/html.png";
+import CSS from "../assets/images/css.png";
+import JavaScript from "../assets/images/javascript.png";
+import ReactImg from "../assets/images/react.png";
+import Node from "../assets/images/node.png";
+import Sql from "../assets/images/sql.png";
+import GitHub from "../assets/images/github.png";
+import Sass from "../assets/images/sass.png";
+import Python from "../assets/images/python.png";
+import Flask from "../assets/images/flask.png";
+import Tailwind from "../assets/images/tailwind.png";
+import Arcgis from "../assets/images/arcgis.png";
 
 const Skills = () => {
   return (
@@ -24,7 +24,7 @@ const Skills = () => {
             SKILLS
           </p>
         </div>
-        <div className="sm: grid grid-cols-2 sm:grid-cols-4 gap-4 text-center">
+        <div className="sm: grid grid-cols-2 sm:grid-cols-4 gap-4 text-center pt-10 ">
           <div className="hover:scale-150 duration-500 ">
             <img className="w-12 mx-auto" src={HTML} alt="HTML icon " />
             <p className="">HTML5</p>

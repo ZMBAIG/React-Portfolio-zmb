@@ -4,14 +4,14 @@ const About = () => {
   return (
     <div
       name="about"
-      className="sm:w-full h-full bg-gradient-to-r from-indigo-900 to-sky-500 text-gray-300 ml-10 pt-14"
+      className="sm:w-full h-full bg-gradient-to-r from-indigo-900 to-sky-500 text-gray-300 ml-10 pt-20"
     >
       <div
         name="about"
         className=" w-full h-full bg-gradient-to-r from-indigo-900 to-sky-500 px-6 flex justify-center grid-cols-2"
       >
-        <p class="About  max-w-[800px] w-full  p-8 text-white border">
-          <p className=" text-1xl text-center font-bold bg-gradient-to-r from-indigo-900 to-sky-500  shadow-lg shadow-[#54749b] border-b-[1.8px]  tracking-[10px] text-white my-auto p-2 mb-4">
+        <p class="About  max-w-[800px] w-full  px-8 pb-8 ">
+          <p className=" text-1xl text-center font-bold bg-gradient-to-r from-indigo-900 to-sky-500  shadow-lg shadow-[#54749b] border-b-[1.8px]  tracking-[10px] text-white my-auto p-2 mb-10">
             OVER MIJ
           </p>
           Het mooie in de veelzijdige wereld van de informatietechnologie is dat

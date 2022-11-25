@@ -8,7 +8,7 @@ const Project = () => {
   return (
     <div
       name="work"
-      className="sm:w-full h-fit text-gray-300 bg-gradient-to-r  from-indigo-900 to-sky-500 pl-[100px] py-14"
+      className="sm:w-full h-fit text-gray-300 bg-gradient-to-r  from-indigo-900 to-sky-500 pl-[100px] pt-14"
     >
       <div className=" max-w-[800px] mx-auto p-4 flex flex-col w-full h-full">
         <div className="pb-8">

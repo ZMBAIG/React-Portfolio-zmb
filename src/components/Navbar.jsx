@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import Logo from "../assets/cube-logo.png";
 import { Link } from "react-scroll";
+import ResumePDF from "../assets/NL-Zafar-Resume-FSD-2022-23.pdf";
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -42,6 +43,11 @@ const Navbar = () => {
           <Link to="contact" smooth={true} duration={500}>
             Contact
           </Link>
+        </li>
+        <li class="menu hover:text-[#61dafb]">
+          <a href={ResumePDF} target="_blank" rel="noreferrer">
+            Resume
+          </a>{" "}
         </li>
       </ul>
 
@@ -86,6 +92,11 @@ const Navbar = () => {
           <Link onClick={handleClick} to="contact" smooth={true} duration={500}>
             Contact
           </Link>
+        </li>
+        <li class="menu hover:text-[#61dafb]">
+          <a href={ResumePDF} target="_blank" rel="noreferrer">
+            Resume
+          </a>{" "}
         </li>
       </ul>
     </div>

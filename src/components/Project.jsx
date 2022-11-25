@@ -8,21 +8,19 @@ const Project = () => {
   return (
     <div
       name="work"
-      className="sm:w-full h-fit text-gray-300 bg-[#0a192f] pl-[100px] py-6"
+      className="sm:w-full h-fit text-gray-300 bg-gradient-to-r  from-indigo-900 to-sky-500 pl-[100px] py-14"
     >
       <div className=" max-w-[800px] mx-auto p-4 flex flex-col w-full h-full">
         <div className="pb-8">
           <p className="text-2xl flex-inline shadow-lg shadow-[#54749b] border-b-[1.8px] text-gray-300 p-2 flex justify-center tracking-[14px]">
             PROJECTS
           </p>
-          <p class="pt-8">
+          <p class="pt-8 text-center">
             Here are some of my personal projects, you may like.
           </p>
         </div>
 
-        {/* container for projects */}
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6 my-4">
-          {/* Gird Item */}
           {project.map((item, index) => (
             <div
               key={index}
@@ -30,13 +28,11 @@ const Project = () => {
               className="shadow-lg shadow-[#040c16] group container rounded-md 
               flex justify-center text-center items-center mx-auto content-div "
             >
-              {/* Hover effect for images */}
               <div className="opacity-0 group-hover:opacity-100 ">
                 <span className="text-md font bold text-white tracking-wider">
                   {item.name}
                 </span>
                 <div className="pt-2 text-center ">
-                  {/* eslint-disable-next-line */}
                   <a href={item.github} target="_blank">
                     <button
                       className="text-center rounded-full p-3 m-2

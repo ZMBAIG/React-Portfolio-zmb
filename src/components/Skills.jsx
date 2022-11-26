@@ -16,11 +16,11 @@ const Skills = () => {
   return (
     <div
       name="skills"
-      className="sm:w-full h-fit bg-gradient-to-r  from-indigo-900 to-sky-500 text-gray-300 pt-14"
+      className="sm:w-full h-fit bg-gradient-to-r  from-indigo-900 to-sky-500 text-gray-300 ml-10"
     >
       <div className="max-w-[800px] mx-auto p-4 flex flex-col  w-full h-full pl-[100px]">
-        <div className="pb-8">
-          <p className="text-2xl shadow-lg shadow-[#54749b] border-b-[1.8px] p-2 flex justify-center items-center tracking-[22px]">
+        <div className="pb-8 mx-auto">
+          <p className="text-2xl shadow-lg shadow-[#54749b] border-b-[1.8px] px-6 flex justify-center items-center tracking-[22px]">
             SKILLS
           </p>
         </div>

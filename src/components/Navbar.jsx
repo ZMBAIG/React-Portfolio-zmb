@@ -13,8 +13,8 @@ const Navbar = () => {
       <div class="mt-4">
         <img src={Logo} alt="Logo" style={{ width: "60px" }} />
       </div>
-      <p class=" quote text-xs">
-        <i>“First, solve the problem. Then, write the code.” – John Johnson</i>{" "}
+      <p class=" quote text-[2rem] text-shadow-lg shadow-[#54749b]">
+        Zafar_____________
       </p>
 
       {/* menu */}
@@ -61,7 +61,7 @@ const Navbar = () => {
         className={
           !nav
             ? "hidden"
-            : "absolute top-0 left-0 w-full h-screen bg-[#282c34] flex flex-col  items-center gap-6  pt-[30%]"
+            : "absolute top-0 left-0 w-full h-screen bg-[#282c34] flex flex-col  items-center gap-6  pt-[35%]"
         }
       >
         <li className="text-2xl hover:border-b-4 border-emerald-600 hover:text-[#f211a3]">

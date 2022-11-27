@@ -4,13 +4,13 @@ const About = () => {
   return (
     <div
       name="about"
-      className="sm:w-full h-full bg-gradient-to-r from-indigo-900 to-sky-500 text-gray-300 ml-10"
+      className="sm:w-full h-full bg-gradient-to-r from-indigo-900 to-sky-500 text-gray-300 "
     >
       <div
         name="about"
         className=" w-full h-full bg-gradient-to-r from-indigo-900 to-sky-500 px-6 flex justify-center grid-cols-2"
       >
-        <p class="  max-w-[800px] w-full  px-8 pb-8 ">
+        <p class="  max-w-[800px] w-full  px-8 pb-8 ml-10 ">
           <p className=" text-1xl text-center font-bold bg-gradient-to-r from-indigo-900 to-sky-500  shadow-lg shadow-[#54749b] border-b-[1.8px]  tracking-[10px] text-white p-2 mb-8 mx-auto inline-block">
             OVER MIJ
           </p>

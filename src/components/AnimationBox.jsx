@@ -4,10 +4,10 @@ const AnimationBox = () => {
   return (
     <div
       name="home"
-      className="sm:w-full h-screen bg-gradient-to-r  from-indigo-900 to-sky-500 text-gray-300 flex items-center ml-10"
+      className="sm:w-full h-screen bg-gradient-to-r  from-indigo-900 to-sky-500 text-gray-300 flex justify-center "
     >
       {/* Animation box with contents */}
-      <section class="container w-full h-screen">
+      <section class="container sm:w-full h-full">
         <div class="box">
           <span></span>
           <span></span>

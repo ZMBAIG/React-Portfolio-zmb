@@ -8,14 +8,14 @@ const Project = () => {
   return (
     <div
       name="work"
-      className="sm:w-full h-fit text-gray-300 bg-gradient-to-r  from-indigo-900 to-sky-500 pl-[100px] pt-14 px-8 ml-8"
+      className="sm:w-full h-fit text-gray-300 bg-gradient-to-r  from-indigo-900 to-sky-500 pl-[100px] pt-14 px-8 ml-0"
     >
       <div className=" max-w-[800px] mx-auto p-4 flex flex-col w-full h-full">
         <div className="pb-8 mx-auto">
-          <p className="text-2xl flex-inline shadow-lg shadow-[#54749b] border-b-[1.8px] text-gray-300 p-2 flex justify-center tracking-[14px]">
+          <p className="text-2xl flex-inline shadow-lg shadow-[#54749b] border-b-[1.8px] text-gray-300 flex justify-center tracking-[12px]">
             PROJECTS
           </p>
-          <p class="pt-8 text-center">
+          <p class="mt-8 text-center">
             Here are some of my personal projects, you may like.
           </p>
         </div>

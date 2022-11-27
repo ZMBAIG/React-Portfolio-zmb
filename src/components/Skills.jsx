@@ -18,7 +18,7 @@ const Skills = () => {
       name="skills"
       className="sm:w-full h-fit bg-gradient-to-r  from-indigo-900 to-sky-500 text-gray-300 ml-10"
     >
-      <div className="pb-8 text-center">
+      <div className="mx-0 text-center ml-10">
         <p className="text-2xl shadow-lg shadow-[#54749b] border-b-[1px]  justify-center items-center tracking-[20px] bg-gradient-to-r  from-indigo-900 to-sky-500 px-8 inline-flex">
           SKILLS
         </p>

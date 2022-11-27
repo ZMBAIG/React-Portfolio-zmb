@@ -4,15 +4,15 @@ const About = () => {
   return (
     <div
       name="about"
-      className="sm:w-full h-full bg-gradient-to-r from-indigo-900 to-sky-500 text-gray-300 ml-10 "
+      className="sm:w-full h-full bg-gradient-to-r from-indigo-900 to-sky-500 text-gray-300 ml-10 pt-0 "
     >
       <div
         name="about"
         className=" w-full h-full bg-gradient-to-r from-indigo-900 to-sky-500 px-6 flex justify-center grid-cols-2"
       >
-        <p class="  max-w-[800px] w-full  px-8 pb-8 ml-10 ">
+        <p class="  max-w-[800px] w-full pb-8 ml-10 ">
           <div class="text-center pb-8">
-            <p className=" text-2xl shadow-lg shadow-[#54749b] border-b-[1px] bg-gradient-to-r from-indigo-900 to-sky-500   tracking-[10px] text-white px-8 inline-block text-center">
+            <p className=" text-lg shadow-lg shadow-[#54749b] border-b-[1px] bg-gradient-to-r from-indigo-900 to-sky-500   tracking-[10px] text-white px-8 inline-block text-center">
               OVER MIJ
             </p>
           </div>

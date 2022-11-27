@@ -9,7 +9,7 @@ const Contact = () => {
         name="contact"
         method="POST"
         action="https://getform.io/f/792c4f85-e64f-46f0-a04b-17d06ea710d0"
-        className="flex flex-col max-w-[350px] bg-[#282c34] w-[600px] px-4"
+        className="flex flex-col max-w-[350px] bg-[#282c34] w-[600px] px-4 ml-5"
       >
         <p class="text-white p-4 pl-0 text-center tracking-[4px]">CONTACT ME</p>
         <input

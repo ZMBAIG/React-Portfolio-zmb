@@ -10,11 +10,11 @@ const Navbar = () => {
 
   return (
     <div className="fixed w-full h-[80px]  flex justify-between items-center px-4 bg-[#282c34] text-white shadow-lg shadow-[#54749b] p-4 top-0 left-0">
-      <div class="mt-4">
-        <img src={Logo} alt="Logo" style={{ width: "60px" }} />
+      <div class="mt-4 ">
+        <img src={Logo} alt="Logo" style={{ width: "50px" }} />
       </div>
-      <p class=" quote text-[2rem] text-shadow-lg shadow-[#54749b]">
-        Zafar_____________
+      <p class=" quote text-[2rem] text-shadow-lg shadow-[#54749b] inline-flex">
+        Zafar______
       </p>
 
       {/* menu */}

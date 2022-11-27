@@ -16,14 +16,15 @@ const Skills = () => {
   return (
     <div
       name="skills"
-      className="sm:w-full h-fit bg-gradient-to-r  from-indigo-900 to-sky-500 text-gray-300 ml-0"
+      className="sm:w-full h-fit bg-gradient-to-r  from-indigo-900 to-sky-500 text-gray-300 ml-10"
     >
-      <div className="max-w-[800px] mx-auto p-4 flex flex-col  w-full h-full pl-[100px]">
-        <div className="pb-8 mx-auto">
-          <p className="text-2xl shadow-lg shadow-[#54749b] border-b-[1.8px]  flex justify-center items-center tracking-[20px]">
-            SKILLS
-          </p>
-        </div>
+      <div className="pb-8 text-center">
+        <p className="text-2xl shadow-lg shadow-[#54749b] border-b-[1px]  justify-center items-center tracking-[20px] bg-gradient-to-r  from-indigo-900 to-sky-500 px-8 inline-flex">
+          SKILLS
+        </p>
+      </div>
+
+      <div className=" max-w-[800px] mx-auto p-4 flex flex-col  w-full h-full pl-[100px]">
         <div className="sm: grid grid-cols-2 sm:grid-cols-4 gap-4 text-center pt-10 ">
           <div className="hover:scale-150 duration-500 ">
             <img className="w-12 mx-auto" src={HTML} alt="HTML icon " />

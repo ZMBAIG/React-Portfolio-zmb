@@ -3,13 +3,13 @@ const Contact = () => {
   return (
     <div
       name="contact"
-      className="sm:w-full h-fit bg-gradient-to-r  from-indigo-900 to-sky-500 flex justify-center items-center  pb-20 ml-0"
+      className="sm:w-full h-fit bg-gradient-to-r  from-indigo-900 to-sky-500 flex justify-center items-center pb-8   ml-10"
     >
       <form
         name="contact"
         method="POST"
         action="https://getform.io/f/792c4f85-e64f-46f0-a04b-17d06ea710d0"
-        className="flex flex-col max-w-[350px] bg-[#282c34]  mt-4 px-8 ml-16"
+        className="flex flex-col max-w-[350px] bg-[#282c34] w-[600px] px-4"
       >
         <p class="text-white p-4 pl-0 text-center tracking-[4px]">CONTACT ME</p>
         <input

@@ -4,16 +4,18 @@ const About = () => {
   return (
     <div
       name="about"
-      className="sm:w-full h-full bg-gradient-to-r from-indigo-900 to-sky-500 text-gray-300 "
+      className="sm:w-full h-full bg-gradient-to-r from-indigo-900 to-sky-500 text-gray-300 ml-10 "
     >
       <div
         name="about"
         className=" w-full h-full bg-gradient-to-r from-indigo-900 to-sky-500 px-6 flex justify-center grid-cols-2"
       >
         <p class="  max-w-[800px] w-full  px-8 pb-8 ml-10 ">
-          <p className=" text-1xl text-center font-bold bg-gradient-to-r from-indigo-900 to-sky-500  shadow-lg shadow-[#54749b] border-b-[1.8px]  tracking-[10px] text-white p-2 mb-8 mx-auto inline-block">
-            OVER MIJ
-          </p>
+          <div class="text-center pb-8">
+            <p className=" text-2xl shadow-lg shadow-[#54749b] border-b-[1px] bg-gradient-to-r from-indigo-900 to-sky-500   tracking-[10px] text-white px-8 inline-block text-center">
+              OVER MIJ
+            </p>
+          </div>
           <p>
             Het mooie in de veelzijdige wereld van de informatietechnologie is
             dat het kansen biedt om je op meerdere fronten te ontwikkelen. Dit

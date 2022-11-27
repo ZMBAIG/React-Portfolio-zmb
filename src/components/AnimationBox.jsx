@@ -4,7 +4,7 @@ const AnimationBox = () => {
   return (
     <div
       name="home"
-      className="sm:w-full h-screen bg-gradient-to-r  from-indigo-900 to-sky-500 text-gray-300 flex justify-center "
+      className="sm:w-full h-screen bg-gradient-to-r  from-indigo-900 to-sky-500 text-gray-300 flex justify-center ml-10 "
     >
       {/* Animation box with contents */}
       <section class="container sm:w-full h-full">
@@ -14,7 +14,7 @@ const AnimationBox = () => {
           <span></span>
           <span></span>
           <div class="content">
-            <div class="text-white text-sm  animate-ping relative inline-flex h-50 w-50 bg-sky-400 opacity-100 font-sans float-left">
+            <div class="text-white text-2xl  animate-ping relative inline-flex h-50 w-100 font-sans float-left">
               Hoi,
             </div>
 

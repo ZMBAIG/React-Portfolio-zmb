@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Portfolio-zmb/static/css/main.0371297c.css",
+    "main.css": "/React-Portfolio-zmb/static/css/main.81671cd1.css",
     "main.js": "/React-Portfolio-zmb/static/js/main.0389721b.js",
     "static/media/cube-logo.png": "/React-Portfolio-zmb/static/media/cube-logo.878f049afded91a8696f.png",
     "static/media/Superpy.jpg": "/React-Portfolio-zmb/static/media/Superpy.7c9e5f22a6bf36716ff0.jpg",
@@ -22,11 +22,11 @@
     "static/media/node.png": "/React-Portfolio-zmb/static/media/node.acba77d3d2487152f588.png",
     "static/media/python.png": "/React-Portfolio-zmb/static/media/python.690af8e772a72e234229.png",
     "index.html": "/React-Portfolio-zmb/index.html",
-    "main.0371297c.css.map": "/React-Portfolio-zmb/static/css/main.0371297c.css.map",
+    "main.81671cd1.css.map": "/React-Portfolio-zmb/static/css/main.81671cd1.css.map",
     "main.0389721b.js.map": "/React-Portfolio-zmb/static/js/main.0389721b.js.map"
   },
   "entrypoints": [
-    "static/css/main.0371297c.css",
+    "static/css/main.81671cd1.css",
     "static/js/main.0389721b.js"
   ]
 }

@@ -22,6 +22,7 @@ const AnimationBox = () => {
             <h1 className="text-2xl font-bold text-[#9edef0] text-center tracking-[4px]">
               Zafar Baig
             </h1>
+
             <h2 className="text-sm text-teal-200 text-center">
               Full Stack Developer
             </h2>

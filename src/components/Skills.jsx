@@ -10,7 +10,10 @@ import Sass from "../assets/images/sass.png";
 import Python from "../assets/images/python.png";
 import Flask from "../assets/images/flask.png";
 import Tailwind from "../assets/images/tailwind.png";
-import Arcgis from "../assets/images/arcgis.png";
+import ArcGIS from "../assets/images/arcgis.png";
+import Jest from "../assets/images/jest.png";
+import Git from "../assets/images/git.png";
+import Redux from "../assets/images/redux.png";
 
 const Skills = () => {
   return (
@@ -72,7 +75,19 @@ const Skills = () => {
             <p className="">Tailwind</p>
           </div>
           <div className=" hover:scale-150 duration-500 rounded-b-full">
-            <img className="w-12 mx-auto" src={Arcgis} alt="HTML icon" />
+            <img className="w-12 mx-auto" src={Jest} alt="HTML icon" />
+            <p className="">Jest</p>
+          </div>
+          <div className=" hover:scale-150 duration-500 rounded-b-full">
+            <img className="w-12 mx-auto" src={Git} alt="HTML icon" />
+            <p className="">Git</p>
+          </div>
+          <div className=" hover:scale-150 duration-500 rounded-b-full">
+            <img className="w-12 mx-auto" src={Redux} alt="HTML icon" />
+            <p className="">Redux</p>
+          </div>
+          <div className=" hover:scale-150 duration-500 rounded-b-full">
+            <img className="w-12 mx-auto" src={ArcGIS} alt="HTML icon" />
             <p className="">Arc GIS</p>
           </div>
         </div>

@@ -14,6 +14,8 @@ import ArcGIS from "../assets/images/arcgis.png";
 import Jest from "../assets/images/jest.png";
 import Git from "../assets/images/git.png";
 import Redux from "../assets/images/redux.png";
+import Photoshop from "../assets/images/photoshop.png";
+import Figma from "../assets/images/figma.png";
 
 const Skills = () => {
   return (
@@ -29,6 +31,11 @@ const Skills = () => {
 
       <div className=" max-w-[800px] mx-auto p-4 flex flex-col  w-full h-full pl-[100px]">
         <div className="sm: grid grid-cols-2 sm:grid-cols-4 gap-4 text-center pt-10 ">
+          {" "}
+          <div className=" hover:scale-150 duration-500 rounded-b-full">
+            <img className="w-12 mx-auto" src={ArcGIS} alt="HTML icon" />
+            <p className="">Arc GIS</p>
+          </div>
           <div className="hover:scale-150 duration-500 ">
             <img className="w-12 mx-auto" src={HTML} alt="HTML icon " />
             <p className="">HTML5</p>
@@ -41,7 +48,6 @@ const Skills = () => {
             <img className="w-12 mx-auto" src={Sass} alt="HTML icon" />
             <p className="">SASS</p>
           </div>
-
           <div className=" hover:scale-150 duration-500 rounded-b-full">
             <img className="w-12 mx-auto" src={JavaScript} alt="HTML icon" />
             <p className="">JavaScript</p>
@@ -87,8 +93,12 @@ const Skills = () => {
             <p className="">Redux</p>
           </div>
           <div className=" hover:scale-150 duration-500 rounded-b-full">
-            <img className="w-12 mx-auto" src={ArcGIS} alt="HTML icon" />
-            <p className="">Arc GIS</p>
+            <img className="w-12 mx-auto" src={Photoshop} alt="HTML icon" />
+            <p className="">Photoshop</p>
+          </div>
+          <div className=" hover:scale-150 duration-500 rounded-b-full">
+            <img className="w-12 mx-auto" src={Figma} alt="HTML icon" />
+            <p className="">Figma</p>
           </div>
         </div>
       </div>

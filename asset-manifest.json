@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/React-Portfolio-zmb/static/css/main.81671cd1.css",
-    "main.js": "/React-Portfolio-zmb/static/js/main.633533df.js",
+    "main.js": "/React-Portfolio-zmb/static/js/main.aa360a91.js",
     "static/media/cube-logo.png": "/React-Portfolio-zmb/static/media/cube-logo.878f049afded91a8696f.png",
     "static/media/Superpy.jpg": "/React-Portfolio-zmb/static/media/Superpy.7c9e5f22a6bf36716ff0.jpg",
     "static/media/FilmSearch.jpg": "/React-Portfolio-zmb/static/media/FilmSearch.303a3829e4dfcc216fd1.jpg",
     "static/media/StudentDashboard.jpg": "/React-Portfolio-zmb/static/media/StudentDashboard.2bb9b284be76d6ec84a7.jpg",
     "static/media/Betsyshop.jpg": "/React-Portfolio-zmb/static/media/Betsyshop.979a0769e2956a2ffc73.jpg",
     "static/media/NL-Zafar-Resume-FSD-2022-23.pdf": "/React-Portfolio-zmb/static/media/NL-Zafar-Resume-FSD-2022-23.4b3e14088d676334ec21.pdf",
+    "static/media/photoshop.png": "/React-Portfolio-zmb/static/media/photoshop.4528339043a6bab6b6e6.png",
     "static/media/ToDoList.jpg": "/React-Portfolio-zmb/static/media/ToDoList.c420de876aa91910f27e.jpg",
     "static/media/flask.png": "/React-Portfolio-zmb/static/media/flask.d6d30c98641995f1b39c.png",
     "static/media/html.png": "/React-Portfolio-zmb/static/media/html.87ec4ca091a507e14a7f.png",
@@ -26,10 +27,10 @@
     "static/media/redux.png": "/React-Portfolio-zmb/static/media/redux.cef2cefc47fd1abe86ec.png",
     "index.html": "/React-Portfolio-zmb/index.html",
     "main.81671cd1.css.map": "/React-Portfolio-zmb/static/css/main.81671cd1.css.map",
-    "main.633533df.js.map": "/React-Portfolio-zmb/static/js/main.633533df.js.map"
+    "main.aa360a91.js.map": "/React-Portfolio-zmb/static/js/main.aa360a91.js.map"
   },
   "entrypoints": [
     "static/css/main.81671cd1.css",
-    "static/js/main.633533df.js"
+    "static/js/main.aa360a91.js"
   ]
 }

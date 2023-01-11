@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/React-Portfolio-zmb/static/css/main.81671cd1.css",
-    "main.js": "/React-Portfolio-zmb/static/js/main.aa360a91.js",
+    "main.css": "/React-Portfolio-zmb/static/css/main.a56c5ca1.css",
+    "main.js": "/React-Portfolio-zmb/static/js/main.2f49bf82.js",
     "static/media/cube-logo.png": "/React-Portfolio-zmb/static/media/cube-logo.878f049afded91a8696f.png",
     "static/media/Superpy.jpg": "/React-Portfolio-zmb/static/media/Superpy.7c9e5f22a6bf36716ff0.jpg",
     "static/media/FilmSearch.jpg": "/React-Portfolio-zmb/static/media/FilmSearch.303a3829e4dfcc216fd1.jpg",
     "static/media/StudentDashboard.jpg": "/React-Portfolio-zmb/static/media/StudentDashboard.2bb9b284be76d6ec84a7.jpg",
     "static/media/Betsyshop.jpg": "/React-Portfolio-zmb/static/media/Betsyshop.979a0769e2956a2ffc73.jpg",
     "static/media/NL-Zafar-Resume-FSD-2022-23.pdf": "/React-Portfolio-zmb/static/media/NL-Zafar-Resume-FSD-2022-23.4b3e14088d676334ec21.pdf",
-    "static/media/photoshop.png": "/React-Portfolio-zmb/static/media/photoshop.4528339043a6bab6b6e6.png",
     "static/media/ToDoList.jpg": "/React-Portfolio-zmb/static/media/ToDoList.c420de876aa91910f27e.jpg",
+    "static/media/photoshop.png": "/React-Portfolio-zmb/static/media/photoshop.1d1dcda2d15e784eabff.png",
     "static/media/flask.png": "/React-Portfolio-zmb/static/media/flask.d6d30c98641995f1b39c.png",
     "static/media/html.png": "/React-Portfolio-zmb/static/media/html.87ec4ca091a507e14a7f.png",
+    "static/media/powerdirector.png": "/React-Portfolio-zmb/static/media/powerdirector.c6969dd09c0f8812951e.png",
     "static/media/css.png": "/React-Portfolio-zmb/static/media/css.a327b6ba3be7d6e4fe57.png",
     "static/media/react.png": "/React-Portfolio-zmb/static/media/react.283bf42c605cfc49cf49.png",
     "static/media/arcgis.png": "/React-Portfolio-zmb/static/media/arcgis.6bdc7c9fc6e554911989.png",
+    "static/media/redux.png": "/React-Portfolio-zmb/static/media/redux.33d64751feb295f03e7e.png",
     "static/media/jest.png": "/React-Portfolio-zmb/static/media/jest.0c494b656297aae63ebd.png",
     "static/media/git.png": "/React-Portfolio-zmb/static/media/git.95e92c065c8ce5f9147a.png",
     "static/media/javascript.png": "/React-Portfolio-zmb/static/media/javascript.f6e2513e7903619a9a2e.png",
@@ -24,13 +26,12 @@
     "static/media/tailwind.png": "/React-Portfolio-zmb/static/media/tailwind.cef18504bf96b4872a4f.png",
     "static/media/node.png": "/React-Portfolio-zmb/static/media/node.acba77d3d2487152f588.png",
     "static/media/python.png": "/React-Portfolio-zmb/static/media/python.690af8e772a72e234229.png",
-    "static/media/redux.png": "/React-Portfolio-zmb/static/media/redux.cef2cefc47fd1abe86ec.png",
     "index.html": "/React-Portfolio-zmb/index.html",
-    "main.81671cd1.css.map": "/React-Portfolio-zmb/static/css/main.81671cd1.css.map",
-    "main.aa360a91.js.map": "/React-Portfolio-zmb/static/js/main.aa360a91.js.map"
+    "main.a56c5ca1.css.map": "/React-Portfolio-zmb/static/css/main.a56c5ca1.css.map",
+    "main.2f49bf82.js.map": "/React-Portfolio-zmb/static/js/main.2f49bf82.js.map"
   },
   "entrypoints": [
-    "static/css/main.81671cd1.css",
-    "static/js/main.aa360a91.js"
+    "static/css/main.a56c5ca1.css",
+    "static/js/main.2f49bf82.js"
   ]
 }

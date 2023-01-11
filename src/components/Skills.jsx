@@ -16,6 +16,7 @@ import Git from "../assets/images/git.png";
 import Redux from "../assets/images/redux.png";
 import Photoshop from "../assets/images/photoshop.png";
 import Figma from "../assets/images/figma.png";
+import Powerdirector from "../assets/images/powerdirector.png";
 
 const Skills = () => {
   return (
@@ -30,7 +31,7 @@ const Skills = () => {
       </div>
 
       <div className=" max-w-[800px] mx-auto p-4 flex flex-col  w-full h-full pl-[100px]">
-        <div className="sm: grid grid-cols-2 sm:grid-cols-4 gap-4 text-center pt-10 ">
+        <div className="sm: grid grid-cols-2 sm:grid-cols-6 gap-4 text-center pt-10 ">
           {" "}
           <div className=" hover:scale-150 duration-500 rounded-b-full">
             <img className="w-12 mx-auto" src={ArcGIS} alt="HTML icon" />
@@ -99,6 +100,10 @@ const Skills = () => {
           <div className=" hover:scale-150 duration-500 rounded-b-full">
             <img className="w-12 mx-auto" src={Figma} alt="HTML icon" />
             <p className="">Figma</p>
+          </div>
+          <div className=" hover:scale-150 duration-500 rounded-b-full">
+            <img className="w-12 mx-auto" src={Powerdirector} alt="HTML icon" />
+            <p className="">Powerdirector</p>
           </div>
         </div>
       </div>

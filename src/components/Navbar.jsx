@@ -19,32 +19,32 @@ const Navbar = () => {
 
       {/* menu */}
       <ul className="hidden md:flex ">
-        <li class="menu hover:border-b-4 border-emerald-600">
+        <li class="menu hover:border-b-2 border-emerald-600">
           <Link to="home" smooth={true} duration={500}>
             Home
           </Link>
         </li>
-        <li class="menu hover:border-b-4 border-emerald-600">
-          <Link to="about" smooth={true} duration={500}>
+        <li class="menu hover:border-b-2 border-emerald-600">
+          <Link to="About" smooth={true} duration={500}>
             About
           </Link>
         </li>
-        <li class="menu hover:border-b-4 border-emerald-600">
+        <li class="menu hover:border-b-2 border-emerald-600">
           <Link to="skills" smooth={true} duration={500}>
             Skills
           </Link>
         </li>
-        <li class="menu hover:border-b-4 border-emerald-600">
+        <li class="menu hover:border-b-2 border-emerald-600">
           <Link to="work" smooth={true} duration={500}>
             Projects
           </Link>
         </li>
-        <li class="menu hover:border-b-4 border-emerald-600">
+        <li class="menu hover:border-b-2 border-emerald-600">
           <Link to="contact" smooth={true} duration={500}>
             Contact
           </Link>
         </li>
-        <li class="menu hover:border-b-4 border-emerald-600">
+        <li class="menu hover:border-b-2 border-emerald-600">
           <a href={ResumePDF} target="_blank" rel="noreferrer">
             Resume
           </a>{" "}

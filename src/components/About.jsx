@@ -13,11 +13,11 @@ const About = () => {
         <p class="  max-w-[800px] w-full pb-8 ml-10 ">
           <div class="text-center pb-8">
             <p className=" text-lg shadow-lg shadow-[#54749b] border-b-[1px] bg-gradient-to-r from-indigo-900 to-sky-500   tracking-[10px] text-white px-8 inline-block text-center">
-              OVER MIJ
+              ABOUT ME
             </p>
           </div>
           <p>
-            Het mooie in de veelzijdige wereld van de informatietechnologie is
+            {/* Het mooie in de veelzijdige wereld van de informatietechnologie is
             dat het kansen biedt om je op meerdere fronten te ontwikkelen. Dit
             was voor mij een reden om het hbo – omscholingstraject tot Full
             Stack Developer te volgen, wat ik zeer recent met succes heb
@@ -32,7 +32,18 @@ const About = () => {
             veelzijdigheid ontwikkeld in het gebruik van technologieën en
             codeertalen. Mijn leergierigheid en interesse zorgen ervoor dat ik
             nieuwe dingen snel eigen kan maken en nooit een uitdaging uit de weg
-            zal gaan.
+            zal gaan. */}
+            I have a deep passion for software development, algorithms and
+            problem solving. Through a year of practice and many personal
+            projects, I honed my knowledge and skills as a programmer,
+            developing a certain versatility in using technologies and coding
+            languages. As I am mostly a self-learner. I can easily adopt to new
+            things and always ready to take on a challenge. <br></br>
+            Moreover, I have a Strong interest in innovation and continuous
+            improvement within technical applications, excellent incident
+            management skills which involve performing in-depth analysis of
+            issue resolution, ability to manage multiple tasks and willingness
+            to travel to customer sites if required.
           </p>
         </p>
       </div>
